@@ -1,0 +1,9 @@
+// Slide Example Circuit
+TotalNodes = 4
+NodeDelays = 1, 1, 2, 2
+Edge1_3 = 1
+Edge1_4 = 2
+Edge2_1 = 1
+Edge3_2 = 0
+Edge4_2 = 0
+MaxClockCycle = 3

@@ -1,0 +1,8 @@
+// Custom Circuit 3: Multi-Loop Network
+TotalNodes = 4
+NodeDelays = 3, 2, 4, 1
+Edge1_2 = 1
+Edge2_3 = 0
+Edge3_4 = 1
+Edge4_1 = 0
+MaxClockCycle = 7

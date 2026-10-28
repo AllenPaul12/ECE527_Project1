@@ -1,0 +1,9 @@
+// Custom Circuit 2: 5-Node Feedback Network
+TotalNodes = 5
+NodeDelays = 2, 3, 1, 4, 2
+Edge1_2 = 0
+Edge2_3 = 1
+Edge3_4 = 0
+Edge4_5 = 1
+Edge5_1 = 1
+MaxClockCycle = 6
